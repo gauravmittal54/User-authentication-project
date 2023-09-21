@@ -1,9 +1,11 @@
 # User Registration and Authentication System
 
 A web application for user registration, login, and authentication, featuring email-based password reset and Google OAuth2 integration.
+![image](https://github.com/gauravmittal54/User-authentication-project/assets/61792468/8fad7498-8a3e-44a0-884a-6e20fc1b39c0)![image](https://github.com/gauravmittal54/User-authentication-project/assets/61792468/92e427c9-35dd-41e1-bdfb-452cb88a9e77)![image](https://github.com/gauravmittal54/User-authentication-project/assets/61792468/083a4154-fd0c-4f19-b8d9-cb6dae1695f7)
+![image](https://github.com/gauravmittal54/User-authentication-project/assets/61792468/33af547d-c83e-4df8-8b04-79d7831ba700)
+
 
 ## Table of Contents
-- [Project Description](#project-description)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -13,10 +15,6 @@ A web application for user registration, login, and authentication, featuring em
 - [Folder Structure](#folder-structure)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-
-## Project Description
-
-This project is a comprehensive user registration and authentication system built to handle user management in web applications. It provides user registration with email validation, secure login, and user authentication. Additionally, it features a password reset functionality via email and allows users to log in using their Google accounts through OAuth2.
 
 ## Features
 
