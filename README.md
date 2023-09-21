@@ -37,9 +37,11 @@ Before running the application, ensure you have the following installed:
    cd User-authentication-project
 
 2. Install dependencies:
+   ```bash
    npm install
    
 4. Start the server
+   ```bash
    npm start
 
 ### Usage
