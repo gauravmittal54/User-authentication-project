@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Authenticate</title>
+    <!-- Link to your custom CSS file -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    {{>navbar}}
+    <div id="content">
+        {{#if message}}
+        <h1>{{message}}</h1>
+        {{else}}
+        <div><h1>Welcome!!!</h1></div>
+        <div><h2 id="text">This is an upper authentication layer. <br>Authenticate before jumping to main project</h2></div>
+        {{/if}}
+    </div>
+    {{>footer}}
+</body>
+</html>

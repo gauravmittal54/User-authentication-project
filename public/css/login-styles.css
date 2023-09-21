@@ -1,0 +1,57 @@
+
+        /* Set body and html to 100% height */
+        html, body {
+            height: 100%;
+        }
+
+        body {
+            background-color: #f7f7f7;
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+        }
+
+        .card {
+            margin-top: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+            animation: fadeInUp 0.5s ease-in-out;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .card-header {
+            background-color: #babec2;
+            color: #fff;
+            border-bottom: 1px solid #363333;
+        }
+
+        .form-label {
+            font-weight: bold;
+        }
+
+        .btn-primary {
+            background-color: #636060;
+            border-color: #636060;
+            display: block;
+            margin: 0 auto; /* Center align the button */
+        }
+
+        .btn-primary:hover {
+            background-color: #363333;
+            border-color: #363333;
+        }
+
+        .icon {
+            font-size: 24px;
+            margin-right: 10px;
+        }
+    
