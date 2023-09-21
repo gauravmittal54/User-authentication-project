@@ -39,55 +39,6 @@ Before running the application, ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone <gh repo clone gauravmittal54/User-authentication-project>
-   cd User-authentication-project
-
-2. 
-Certainly, here's a README.md tailored to your project based on the code you've shared:
-
-markdown
-Copy code
-# User Registration and Authentication System
-
-A web application for user registration, login, and authentication, featuring email-based password reset and Google OAuth2 integration.
-
-## Table of Contents
-- [Project Description](#project-description)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Authentication](#authentication)
-- [Folder Structure](#folder-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Project Description
-
-This project is a comprehensive user registration and authentication system built to handle user management in web applications. It provides user registration with email validation, secure login, and user authentication. Additionally, it features a password reset functionality via email and allows users to log in using their Google accounts through OAuth2.
-
-## Features
-
-- User registration with email verification
-- Secure user login with password hashing
-- Password reset functionality with email notifications
-- Google OAuth2 authentication for user convenience
-
-## Getting Started
-
-### Prerequisites
-
-Before running the application, ensure you have the following installed:
-
-- Node.js
-- MongoDB
-
-### Installation
-
-1. Clone this repository:
-   ```bash
    git clone <repository-url>
    cd registration-authentication-system
 
