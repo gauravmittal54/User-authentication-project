@@ -33,7 +33,7 @@ Before running the application, ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone gauravmittal54/User-authentication-project
    cd registration-authentication-system
 
 2. Install dependencies:
