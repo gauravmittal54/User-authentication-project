@@ -34,7 +34,7 @@ Before running the application, ensure you have the following installed:
 1. Clone this repository:
    ```bash
    git clone gauravmittal54/User-authentication-project
-   cd registration-authentication-system
+   cd User-authentication-project
 
 2. Install dependencies:
    npm install
