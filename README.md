@@ -13,7 +13,6 @@ A web application for user registration, login, and authentication, featuring em
 - [Folder Structure](#folder-structure)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 
